@@ -8,3 +8,6 @@ punchout/
 testout/
 checkpoint
 test.bat
+*.jpg
+*.png
+*.json
